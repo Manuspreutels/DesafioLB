@@ -23,6 +23,7 @@ Preguntas clave que respondería:
 ¿Qué costos están asociados directamente al producto? (Costos variables como materia prima o comisiones).
 ¿Qué gastos fijos están relacionados con el producto? (Ej.: marketing, mantenimiento, licencias).
 ¿Qué margen queda por unidad vendida después de restar los costos?
+
 2. Aparece un gasto inesperado que la empresa no había considerado. ¿Cómo reaccionarías? ¿Qué pasos seguirías para entenderlo y gestionarlo?
 
 **Respuesta:**
